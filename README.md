@@ -1,4 +1,4 @@
-## Hi there 👋
+## Park Jimin
 
 <!--
 **pjm3872-cloud/pjm3872-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
